@@ -1,0 +1,25 @@
+,Respostas
+"Cálculo da Média Móvel Centrada",
+Calcule a média móvel centrada de 3 meses para os dados de vendas.,Na planilha
+"Crie uma nova coluna chamada ""Média Móvel Centrada (3 meses)"" e
+preencha com os valores calculados.
+",Na planilha
+Qual é a média móvel centrada para Abril de 2019?,"213,33"
+,
+Cálculo do Índice Sazonal,
+Calcule o índice sazonal para cada mês,Na planilha
+"Crie uma nova coluna chamada ""Índice Sazonal"" e preencha com os valores calculados.",Na planilha
+Qual é o índice sazonal para Dezembro?,"1,42"
+,
+Ajuste dos Dados para Remover a Sazonalidade,
+Ajuste os dados de vendas para remover os efeitos da sazonalidade,Na planilha
+"Crie uma nova coluna chamada ""Vendas Ajustadas"" e preencha com os valores ajustados.",Na planilha
+Qual é o valor ajustado para as vendas em Junho de 2020?,"289,17"
+,
+Avaliação da Qualidade das Previsões,
+"Utilize a técnica da média móvel centrada para prever as vendas dos
+próximos 3 meses (Janeiro a Março de 2022).",Na planilha
+Calcule o erro absoluto médio (MAE) das previsões,Na planilha
+Crie uma nova seção para as previsões e medidas de erro,Na planilha
+"Quais são as previsões de vendas para Janeiro, Fevereiro e Março de 2022?","200,90/  216,95/ 233,00"
+Qual é o erro absoluto médio (MAE) das previsões realizadas?,"21,21"
